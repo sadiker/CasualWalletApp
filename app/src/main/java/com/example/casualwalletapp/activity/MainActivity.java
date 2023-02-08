@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         button4.setOnClickListener(this);
         button5.setOnClickListener(this);
 
+
         generalNewsButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -144,7 +145,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         urlList.add("https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Alanya.jpg/250px-Alanya.jpg");
         urlList.add("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Three_tombs_-_%C3%9C%C3%A7_k%C3%BCmbetler_04.jpg/240px-Three_tombs_-_%C3%9C%C3%A7_k%C3%BCmbetler_04.jpg");
         urlList.add("https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Istanbul_asv2020-02_img47_Galata_Tower.jpg/208px-Istanbul_asv2020-02_img47_Galata_Tower.jpg");
-
 
     }
 
