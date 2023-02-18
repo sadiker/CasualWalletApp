@@ -3,3 +3,7 @@
 ### Retrofit,Adapter,Intent,Dialog yapılarını denedim
 
 Kullanmak için Constant paketi altındaki Constant sınıfında, api key kodlarını yazmanız gerekmektedir.
+
+
+https://user-images.githubusercontent.com/121498198/219902999-b47b75de-58df-45f7-b055-9e835fad16b4.mp4
+
